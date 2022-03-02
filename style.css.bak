@@ -1,5 +1,5 @@
 * {
-    background-image: url("media/3d_star_gif.gif");
+    background-image: url("images/planets.gif");
 }
 
 table,
@@ -7,10 +7,10 @@ th,
 td {
     border: 4px solid rgb(97, 86, 247);
     border-radius: 10px;
-    color: rgb(217, 236, 252);
+    color: white;
     font-weight: bold;
     font-size: 20px;
-    font-family: verdana;
+    font-family: cursive;
 }
 
 #table {
@@ -22,8 +22,8 @@ td {
 #planets {
     text-align: center;
     font-size: 30px;
-    color: rgb(212, 214, 71);
-    font-family: fantasy;
+    color: crimson;
+    font-family: system-ui;
 }
 
 #sun {
