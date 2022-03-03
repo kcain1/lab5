@@ -1,6 +1,7 @@
 * {
     background-image: url("images/planets2.gif");
 	background-repeat: no-repeat;
+	background-size:100% 100%;
 }
 
 table,
