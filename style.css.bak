@@ -1,5 +1,5 @@
 * {
-    background-image: url("images/planets2.gif");
+    background-image: url("images/gal.jpg");
 	background-repeat: no-repeat;
 	background-size:100% 100%;
 }

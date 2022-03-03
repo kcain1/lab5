@@ -1,7 +1,8 @@
 * {
     background-image: url("images/gal.jpg");
-	background-repeat: no-repeat;
-	background-size:100% 100%;
+	background-size: auto;
+	background-position: center;
+	background-attachment: fixed;
 }
 
 table,
@@ -25,7 +26,7 @@ td {
     text-align: center;
     font-size: 50px;
     color: crimson;
-    font-family: system-ui;
+    font-family: monospace;
 }
 
 #sun {
